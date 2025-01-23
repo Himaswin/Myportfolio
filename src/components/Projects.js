@@ -67,7 +67,7 @@ function Projects() {
       description: "A portfolio website built using React and Tailwind CSS offers a modern, responsive, and customizable design to showcase projects and skills. React enables a dynamic component-based structure, while Tailwind CSS provides utility-first styling for fast and consistent UI development.",
       image: portfolioImage,
       technologies: ["React", "TailwindCSS",],
-      github: "https://github.com/Himaswin/AI-Grading-Assistant",
+      github: "https://github.com/Himaswin/Myportfolio.git",
       live: "https://github.com/Himaswin/AI-Grading-Assistant",
     },
     // Add more projects
