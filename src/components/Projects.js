@@ -68,7 +68,7 @@ function Projects() {
       image: portfolioImage,
       technologies: ["React", "TailwindCSS",],
       github: "https://github.com/Himaswin/Myportfolio.git",
-      live: "https://github.com/Himaswin/AI-Grading-Assistant",
+      live: "https://github.com/Himaswin/Myportfolio.git",
     },
     // Add more projects
   ];
